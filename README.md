@@ -1,11 +1,11 @@
-### Hello World!
+# Hello World!
 
 ## I'm Agustín Souto, a Web Developer
 
-# I am looking to start my professional career, although I have been learning different technologies and working on personal projects for 2 years.
+### I am looking to start my professional career, although I have been learning different technologies and working on personal projects for 2 years.
 
 - 🌎 I'm from Mar del Plata, Argentina.
-- 👩‍💻 I'm open to join inmediatly to work.
+- 💻 I'm open to join inmediatly to work.
 - ⌚ I'm open to any, full-time or part-time jobs.
 
 ## Contact me:
@@ -27,5 +27,5 @@
 [<img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_git_icon_130581.png">]
 [<img src="https://icon-icons.com/icons2/836/PNG/32/Github_icon-icons.com_66788.png">]
 
-[website] = "https://codepen.io/Souto751/full/eYdrMjy"
-[linkedin] = "https://linkedin.com/in/souto751"
+[website]: "https://codepen.io/Souto751/full/eYdrMjy"
+[linkedin]: "https://linkedin.com/in/souto751"
