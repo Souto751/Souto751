@@ -2,7 +2,7 @@
 
 ## I'm Agustín Souto, a Web Developer
 
-### I am looking to start my professional career, although I have been learning different technologies and working on personal projects for 2 years.
+### I am looking to start my professional career, although I have been learning different technologies and working on personal projects.
 
 - 🌎 I'm from Mar del Plata, Argentina.
 - 💻 I'm open to join inmediatly to work.
