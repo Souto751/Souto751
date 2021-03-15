@@ -18,21 +18,16 @@
 
 ## Languages and Tools:
 
-[<img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png" alt="html" align="left" />][hello]
-[<img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png" alt="css" align="left" />][hello]
-[<img src="https://icon-icons.com/icons2/2108/PNG/32/javascript_icon_130900.png" alt="js" align="left" />][hello]
-[<img src="https://icon-icons.com/icons2/2148/PNG/32/c_icon_132529.png" alt="c++" align="left" />][hello]
-[<img src="https://icon-icons.com/icons2/2415/PNG/32/c_original_logo_icon_146611.png" alt="c" align="left" />][hello]
-[<img src="https://icon-icons.com/icons2/2415/PNG/32/java_original_logo_icon_146458.png" alt="java" align="left" />][hello]
-[<img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_git_icon_130581.png" alt="git" align="left" />][hello]
-[<img src="https://icon-icons.com/icons2/836/PNG/32/Github_icon-icons.com_66788.png" alt="github" align="left" />][hello]
+[<img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png" alt="html" align="left" />]
+[<img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png" alt="css" align="left" />]
+[<img src="https://icon-icons.com/icons2/2108/PNG/32/javascript_icon_130900.png" alt="js" align="left" />]
+[<img src="https://icon-icons.com/icons2/2415/PNG/32/react_original_logo_icon_146374.png" alt="html" align="left" />]
+[<img src="https://icon-icons.com/icons2/2148/PNG/32/c_icon_132529.png" alt="c++" align="left" />]
+[<img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_git_icon_130581.png" alt="git" align="left" />]
+[<img src="https://icon-icons.com/icons2/836/PNG/32/Github_icon-icons.com_66788.png" alt="github" align="left" />]
 
 <br/>
 
-## Learning:
-
-[<img src="https://icon-icons.com/icons2/2415/PNG/32/react_original_logo_icon_146374.png" alt="html" align="left" />][hello]
 
 [website]: https://souto751.github.io/portfolio/
 [linkedin]: https://linkedin.com/in/souto751
-[hello]: #
