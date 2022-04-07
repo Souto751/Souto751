@@ -2,7 +2,7 @@
 
 ## I'm Agustín Souto, Junior Developer at Hospital Privado de Comunidad
 
-- 🌎 I'm from Mar del Plata, Argentina.
+🌎 I'm from Mar del Plata, Argentina.
 
 ## Contact me:
 
