@@ -1,12 +1,8 @@
 # Hello World!
 
-## I'm Agustín Souto, a Web Developer
-
-### I am looking to start my professional career, although I have been learning different technologies and working on personal projects.
+## I'm Agustín Souto, Junior Developer at Hospital Privado de Comunidad
 
 - 🌎 I'm from Mar del Plata, Argentina.
-- 💻 I'm open to join immediately to work.
-- ⌚ I'm open to any, full-time or part-time jobs.
 
 ## Contact me:
 
@@ -22,7 +18,8 @@
 <img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png" alt="css" align="left" />
 <img src="https://icon-icons.com/icons2/2108/PNG/32/javascript_icon_130900.png" alt="js" align="left" />
 <img src="https://icon-icons.com/icons2/2415/PNG/32/react_original_logo_icon_146374.png" alt="html" align="left" />
-<img src="https://icon-icons.com/icons2/2148/PNG/32/c_icon_132529.png" alt="c++" align="left" />
+<img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_vue_icon_130078.png" alt="git" align="left" />
+<img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_cpp_icon_130670.png" alt="c++" align="left" />
 <img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_git_icon_130581.png" alt="git" align="left" />
 <img src="https://icon-icons.com/icons2/836/PNG/32/Github_icon-icons.com_66788.png" alt="github" align="left" />
 
